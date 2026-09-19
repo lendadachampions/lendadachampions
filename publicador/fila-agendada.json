@@ -5,11 +5,11 @@
     "creation_id": "18084014351497024",
     "publish_at_utc": "2026-09-19 11:30 UTC",
     "max_atraso_min": 120,
-    "status": "pending",
+    "status": "missed",
     "attempts": 0,
     "media_id": "",
     "permalink": "",
-    "note": ""
+    "note": "nao publicado: 171 min de atraso"
   },
   {
     "label": "story-jogoes-1909-1100 (11h)",
@@ -17,11 +17,11 @@
     "creation_id": "18084015431497024",
     "publish_at_utc": "2026-09-19 14:00 UTC",
     "max_atraso_min": 240,
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "media_id": "",
     "permalink": "",
-    "note": ""
+    "note": "ja estava publicado (outro publicador)"
   },
   {
     "label": "curiosidade-liverpool-ynwa-reels (17h)",
