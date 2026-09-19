@@ -1,0 +1,38 @@
+[
+  {
+    "label": "jogos-hoje-1909-reels (8h30)",
+    "kind": "REELS",
+    "creation_id": "18084014351497024",
+    "publish_at_utc": "2026-09-19 11:30 UTC",
+    "max_atraso_min": 120,
+    "status": "pending",
+    "attempts": 0,
+    "media_id": "",
+    "permalink": "",
+    "note": ""
+  },
+  {
+    "label": "story-jogoes-1909-1100 (11h)",
+    "kind": "STORIES",
+    "creation_id": "18084015431497024",
+    "publish_at_utc": "2026-09-19 14:00 UTC",
+    "max_atraso_min": 240,
+    "status": "pending",
+    "attempts": 0,
+    "media_id": "",
+    "permalink": "",
+    "note": ""
+  },
+  {
+    "label": "curiosidade-liverpool-ynwa-reels (17h)",
+    "kind": "REELS",
+    "creation_id": "18084010460497024",
+    "publish_at_utc": "2026-09-19 20:00 UTC",
+    "max_atraso_min": 240,
+    "status": "pending",
+    "attempts": 0,
+    "media_id": "",
+    "permalink": "",
+    "note": ""
+  }
+]
